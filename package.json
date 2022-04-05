@@ -24,7 +24,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "electron-dev": "electron ."
+    "dev": "electron ."
   },
   "eslintConfig": {
     "extends": [
@@ -46,6 +46,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.4",
+    "eslint": "^8.12.0",
     "eslint-config-prettier": "^8.5.0",
     "postcss": "^8.4.12",
     "prettier": "2.6.2",

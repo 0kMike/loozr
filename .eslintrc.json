@@ -1,0 +1,10 @@
+{
+  "parserOptions": {
+  },
+  "env": {
+    "es2022": true
+  },
+  "extends": [
+    "prettier"
+  ]
+}
