@@ -1,10 +1,13 @@
 {
   "parserOptions": {
+    "allowImportExportEverywhere": true
   },
   "env": {
     "es2022": true
   },
   "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
     "prettier"
   ]
 }
